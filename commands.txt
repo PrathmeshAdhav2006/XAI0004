@@ -1,0 +1,4 @@
+cd C:\Users\prath\Desktop\XAI0004
+
+streamlit run hackapp.py
+
