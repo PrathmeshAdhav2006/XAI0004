@@ -6,7 +6,7 @@
 
 ## 🌟 Overview
 This project leverages **Deep Learning + Explainable AI (XAI)** to detect **pneumonia** from chest X-rays.  
-The app not only predicts the condition but also explains *why* the AI made that decision using **Grad-CAM, Integrated Gradients, and LIME**.
+The app not only predicts the condition but also explains *why* the AI made that decision using **Grad-CAM, Integrated Gradients, and LIME(Local Interpretable Model-agnostic Explanations).
 
 ---
 
