@@ -1,4 +1,4 @@
-# 🩺 Pneumonia Detection with Explainable AI (XAI)
+# 🩺 Explainable AI (XAI) for Deep Models
 
 > 🚀 Hackathon Project – Detect Pneumonia from Chest X-rays with Explainable AI
 
